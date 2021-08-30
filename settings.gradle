@@ -8,4 +8,5 @@
  */
 
 rootProject.name = 'mp4gw'
+include('lib')
 include('app')

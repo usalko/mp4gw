@@ -22,7 +22,8 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.7.2'
 
     // This dependency is used by the application.
-    implementation 'io.github.usalko:hp:1.1-SNAPSHOT'
+    // iplementation 'io.github.usalko:hp:1.1-SNAPSHOT'
+    project(':lib')
 }
 
 application {
